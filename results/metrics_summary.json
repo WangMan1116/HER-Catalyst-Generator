@@ -1,0 +1,25 @@
+{
+  "ours": {
+    "avg_dg_h_proxy": -0.05201367764172341,
+    "avg_stability": 0.9595563732114337,
+    "avg_synthesis": 0.7743055555555555,
+    "n": 12,
+    "candidate_pool": 48,
+    "template_pool": 96,
+    "target_cond_normalized": [
+      0.5825547575950623,
+      0.3499999940395355,
+      0.25
+    ],
+    "selection_floors": {
+      "stability": 0.8415828802207865,
+      "synthesis": 0.6809027777777781
+    }
+  },
+  "baseline_sample": {
+    "avg_dg_h_proxy": -0.35266496815873016,
+    "avg_stability": 0.8415828802207865,
+    "avg_synthesis": 0.6809027777777781,
+    "n": 60
+  }
+}
